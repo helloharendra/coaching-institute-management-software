@@ -10,6 +10,20 @@ We help educational businesses plan and build digital management solutions to st
 
 Whether you operate a small tuition centre, a multi-branch coaching institute, or a large competitive examination academy, we can develop a software solution around your business workflows.
 
+<!-- screenshots -->
+## Screenshots
+
+**Dashboard**
+
+![Dashboard](screenshots/1-dashboard.png)
+
+<table>
+  <tr>
+    <td align="center" width="50%"><b>Batches</b><br><br><img src="screenshots/2-batches.png" alt="Batches"></td>
+    <td align="center" width="50%"><b>Tests</b><br><br><img src="screenshots/3-tests.png" alt="Tests"></td>
+  </tr>
+</table>
+
 ## What Is Coaching Institute Management Software?
 
 Coaching Institute Management Software is a digital platform designed to manage the academic and administrative activities of coaching centres and training institutes.
@@ -237,17 +251,3 @@ This repository presents Naya Prayog Technologies' coaching institute management
 For project enquiries, customisation, pricing, or implementation discussions, contact our team through the details above.
 
 **Note:** This repository is a proprietary service and solution showcase. It does not grant permission to redistribute, resell, or commercially use Naya Prayog Technologies' proprietary materials or intellectual property.
-
-<!-- screenshots -->
-## Screenshots
-
-**Dashboard**
-
-![Dashboard](screenshots/1-dashboard.png)
-
-<table>
-  <tr>
-    <td align="center" width="50%"><b>Batches</b><br><br><img src="screenshots/2-batches.png" alt="Batches"></td>
-    <td align="center" width="50%"><b>Tests</b><br><br><img src="screenshots/3-tests.png" alt="Tests"></td>
-  </tr>
-</table>
