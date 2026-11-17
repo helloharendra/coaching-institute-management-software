@@ -237,3 +237,17 @@ This repository presents Naya Prayog Technologies' coaching institute management
 For project enquiries, customisation, pricing, or implementation discussions, contact our team through the details above.
 
 **Note:** This repository is a proprietary service and solution showcase. It does not grant permission to redistribute, resell, or commercially use Naya Prayog Technologies' proprietary materials or intellectual property.
+
+<!-- screenshots -->
+## Screenshots
+
+**Dashboard**
+
+![Dashboard](screenshots/1-dashboard.png)
+
+<table>
+  <tr>
+    <td align="center" width="50%"><b>Batches</b><br><br><img src="screenshots/2-batches.png" alt="Batches"></td>
+    <td align="center" width="50%"><b>Tests</b><br><br><img src="screenshots/3-tests.png" alt="Tests"></td>
+  </tr>
+</table>
